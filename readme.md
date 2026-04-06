@@ -18,7 +18,7 @@ To ensure redundancy and long-term availability:
 
 Anyone can support this endeavor by:
 - pinning the image cids found in imageCids.jsonl
-- pinning the current metadata folder cid [ bafybeiaut3bzu5em62kvsj2xd3i33mlq7cx22appps375as2vuw7wbcdmq ] 
+- pinning the current metadata folder cid
 
 ---
 
